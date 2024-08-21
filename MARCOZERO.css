@@ -1,0 +1,52 @@
+/* HOME DA MARCO ZERO */
+
+
+/* HEADER */
+header{
+    display: flex;
+    background-color: rgb(2, 165, 165);
+   
+}
+
+#logo{
+    width: 125px;
+    height: 125px;
+    margin-top: auto;
+}
+
+.listalink{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size:larger;
+}
+
+#img1{
+    width: 700px;
+    height: 500px;
+}
+
+
+
+
+
+/* MAIN */
+
+/* Escultura do Francisco Brennand */
+#esculturas{
+    width: 500px;
+    height: 300px;
+}
+
+/* aqui é os pontos turisticos ajustados */
+.imagem-ajustada{ 
+    width: 300px;
+    height: 300px; 
+
+}
+
+.pontos-turisticos{
+    display: flex;
+}
+
+
+/* FOOTER */
