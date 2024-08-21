@@ -14,11 +14,15 @@ header {
 }
 
 #NOMEDOSITE {
-  font-size: large;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: ;
+  font-style: normal;
   color: burlywood;
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  margin: 50px;
+  
 }
-
+ 
 .listalink {
   text-decoration: none;
   color: rgb(255, 255, 255);
