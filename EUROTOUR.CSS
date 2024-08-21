@@ -1,5 +1,19 @@
 /* FACA VIAGEM */
 
+/* HEADER */
+
+header{
+
+    display: flex;
+    align-items: center;
+    background-color: rgb(138, 210, 219);
+}
+
+#logoeurotour{
+    width: 250px;
+    height: 100px;
+}
+
 #aviaofoto{
     width: 260px;
     height: 200px;

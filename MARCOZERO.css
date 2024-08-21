@@ -1,52 +1,51 @@
 /* HOME DA MARCO ZERO */
 
-
 /* HEADER */
-header{
-    display: flex;
-    background-color: rgb(2, 165, 165);
-   
+header {
+  display: flex;
+  background-color: rgb(2, 165, 165);
+  align-items: center;
 }
 
-#logo{
-    width: 125px;
-    height: 125px;
-    margin-top: auto;
+#logo {
+  width: 125px;
+  height: 125px;
+  margin-top:0%;
 }
 
-.listalink{
-    text-decoration: none;
-    color: rgb(255, 255, 255);
-    font-size:larger;
+#NOMEDOSITE {
+  font-size: large;
+  color: burlywood;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
-#img1{
-    width: 700px;
-    height: 500px;
+.listalink {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-size: larger;
 }
 
-
-
-
+#img1 {
+  width: 700px;
+  height: 500px;
+}
 
 /* MAIN */
 
 /* Escultura do Francisco Brennand */
-#esculturas{
-    width: 500px;
-    height: 300px;
+#esculturas {
+  width: 500px;
+  height: 300px;
 }
 
 /* aqui é os pontos turisticos ajustados */
-.imagem-ajustada{ 
-    width: 300px;
-    height: 300px; 
-
+.imagem-ajustada {
+  width: 300px;
+  height: 300px;
 }
 
-.pontos-turisticos{
-    display: flex;
+.pontos-turisticos {
+  display: flex;
 }
-
 
 /* FOOTER */
